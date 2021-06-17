@@ -6,4 +6,7 @@
     <string name="box_four">Box Four</string>
     <string name="box_five">Box Five</string>
     <string name="box_six">Box Six</string>
+    <string name="red">RED</string>
+    <string name="color_yellow">YELLOW</string>
+    <string name="color_green">GREEN</string>
 </resources>

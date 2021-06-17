@@ -9,4 +9,11 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
 
+
+   <!-- Theme -  Colors-->
+    <color name="p_light">#ffa270</color>
+    <color name="p_dark">#c63f17</color>
+    <color name="color_primary">#ff7043</color>
+
+
 </resources>
