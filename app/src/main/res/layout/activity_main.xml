@@ -53,7 +53,7 @@
         app:layout_constraintTop_toBottomOf="@+id/box_three_text" />
 
     <TextView
-        android:id="@+id/box_six_text"
+        android:id="@+id/box_five_text"
         style="@style/whiteBox"
         android:layout_width="0dp"
         android:layout_height="wrap_content"

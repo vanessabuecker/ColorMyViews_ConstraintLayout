@@ -1,7 +1,6 @@
 package com.vbuecker.colormyviews
 
 import android.graphics.Color
-import android.graphics.PorterDuff
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import com.vbuecker.colormyviews.databinding.ActivityMainBinding
@@ -14,19 +13,23 @@ class MainActivity : AppCompatActivity() {
         binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
-        val buttonGreen = binding.buttonGreen
+        title = "Color My Views"
 
-        buttonGreen.setOnClickListener {
+        binding.buttonGreen.setOnClickListener {
             binding.boxOne.setBackgroundColor(Color.GREEN)
+            binding.buttonGreen.setBackgroundColor(Color.GRAY)
         }
 
         binding.buttonRed.setOnClickListener {
             binding.boxFourText.setBackgroundColor(Color.RED)
+            binding.buttonRed.setBackgroundColor(Color.GRAY)
+
         }
 
         binding.buttonYellow.setOnClickListener {
             binding.boxTwoText.setBackgroundColor(Color.YELLOW)
             binding.boxTwoText.setTextColor(Color.BLACK)
+            binding.buttonYellow.setBackgroundColor(Color.GRAY)
         }
     }
 
