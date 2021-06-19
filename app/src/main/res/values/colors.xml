@@ -8,9 +8,16 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="gray">#BABABA</color>
+    <color name="green">#448F0D</color>
+    <color name="red">#E54304</color>
+    <color name="yellow">#FFC107</color>
+    <color name="red_darker">#C50505</color>
 
 
-   <!-- Theme -  Colors-->
+
+
+    <!-- Theme -  Colors-->
     <color name="p_light">#ffa270</color>
     <color name="p_dark">#c63f17</color>
     <color name="color_primary">#ff7043</color>
