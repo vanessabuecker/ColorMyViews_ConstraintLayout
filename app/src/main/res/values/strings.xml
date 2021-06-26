@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">ColorMyViews</string>
+    <string name="app_name">Color My Views</string>
     <string name="box_one">Box One</string>
     <string name="box_two">Box Two</string>
     <string name="box_tree">Box Three</string>
@@ -9,4 +9,9 @@
     <string name="red">RED</string>
     <string name="color_yellow">YELLOW</string>
     <string name="color_green">GREEN</string>
+    <string name="checkout_screenshot">checkout this screenshot, its so cool!</string>
+    <string name="share_via">share via</string>
+    <string name="image_captured">Captured image and saved to gallery</string>
+    <string name="failed_to_capture">Failed to capture screenshot. Error: </string>
+
 </resources>
